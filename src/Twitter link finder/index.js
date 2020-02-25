@@ -1,3 +1,3 @@
-const regex = /[@#]\w+/g;
+const regex = {};
 
 export default regex;

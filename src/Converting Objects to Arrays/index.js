@@ -1,3 +1,3 @@
-const toArray = obj => Object.entries(obj);
+const toArray = {};
 
 export default toArray;

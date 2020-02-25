@@ -1,6 +1,3 @@
-const messageGlitch = str =>
-  str.replace(/\d+/g, match =>
-    String.fromCharCode('a'.charCodeAt() + Number(match) - 1),
-  );
+const messageGlitch = {};
 
 export default messageGlitch;

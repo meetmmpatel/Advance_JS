@@ -1,6 +1,6 @@
 import convertTime from './index';
 
-test('convertTime', () => {
+test('24-Hour Time', () => {
   expect(convertTime('05:32:33PM')).toBe('17:32:33');
   expect(convertTime('06:00:19AM')).toBe('06:00:19');
   expect(convertTime('07:05:45PM')).toBe('19:05:45');

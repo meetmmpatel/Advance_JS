@@ -1,3 +1,3 @@
-const checkEquality = (a, b) => a === b;
+const checkEquality = {};
 
 export default checkEquality;

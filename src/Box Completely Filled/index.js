@@ -1,4 +1,3 @@
-const completelyFilled = arr =>
-  arr.slice(1, -1).every(row => /^\*+$/.test(row.slice(1, -1)));
+const completelyFilled = {};
 
 export default completelyFilled;

@@ -1,3 +1,3 @@
-const binaryToDecimal = arr => parseInt(arr.join(''), 2);
+const binaryToDecimal = {};
 
 export default binaryToDecimal;

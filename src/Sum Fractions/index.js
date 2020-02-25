@@ -1,9 +1,3 @@
-const sumFractions = arr =>
-  Math.round(
-    arr.reduce(
-      (total, [numerator, denominator]) => total + numerator / denominator,
-      0,
-    ),
-  );
+const sumFractions = {};
 
 export default sumFractions;

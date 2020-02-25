@@ -1,7 +1,3 @@
-const formatDate = str =>
-  str
-    .split('/')
-    .reverse()
-    .join('');
+const formatDate = {};
 
 export default formatDate;

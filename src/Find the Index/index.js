@@ -1,3 +1,3 @@
-const findIndex = (arr, str) => arr.indexOf(str);
+const findIndex = {};
 
 export default findIndex;

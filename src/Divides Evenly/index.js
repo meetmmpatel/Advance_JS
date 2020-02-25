@@ -1,3 +1,3 @@
-const dividesEvenly = (a, b) => a % b === 0;
+const dividesEvenly = {};
 
 export default dividesEvenly;

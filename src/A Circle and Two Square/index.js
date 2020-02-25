@@ -1,3 +1,3 @@
-const squareAreasDifference = radius => 2 * radius ** 2;
+const squareAreasDifference = {};
 
 export default squareAreasDifference;

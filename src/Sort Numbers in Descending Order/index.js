@@ -1,9 +1,3 @@
-const sortDecending = num =>
-  Number(
-    String(num)
-      .split('')
-      .sort((a, b) => b - a)
-      .join(''),
-  );
+const sortDecending = {};
 
 export default sortDecending;

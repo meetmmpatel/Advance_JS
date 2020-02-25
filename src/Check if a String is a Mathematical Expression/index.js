@@ -1,3 +1,3 @@
-const mathExpr = expression => /\d\s*[-+*/%]\s*\d/.test(expression);
+const mathExpr = {};
 
 export default mathExpr;

@@ -1,3 +1,3 @@
-const numOfSubbarrays = arr => arr.filter(Array.isArray).length;
+const numOfSubbarrays = {};
 
 export default numOfSubbarrays;

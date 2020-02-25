@@ -1,4 +1,3 @@
-const shellFish = date =>
-  /R/i.test(date.toLocaleString('en', { month: 'long' })) ? 'safe' : 'unsafe';
+const shellFish = {};
 
 export default shellFish;

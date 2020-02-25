@@ -1,4 +1,3 @@
-const solveForExp = (base, result) =>
-  Math.round(Math.log(result) / Math.log(base));
+const solveForExp = {};
 
 export default solveForExp;

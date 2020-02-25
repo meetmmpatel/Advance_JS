@@ -1,6 +1,3 @@
-const splitCode = str => [
-  str.replace(/\d+/, ''),
-  Number(str.replace(/\D+/, '')),
-];
+const splitCode = {};
 
 export default splitCode;

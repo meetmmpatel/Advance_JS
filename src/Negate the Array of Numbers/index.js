@@ -1,3 +1,3 @@
-const negate = arr => arr.map(num => -num);
+const negate = {};
 
 export default negate;

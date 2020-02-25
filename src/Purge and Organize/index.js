@@ -1,3 +1,3 @@
-const uniqueSort = arr => Array.from(new Set(arr)).sort((a, b) => a - b);
+const uniqueSort = {};
 
 export default uniqueSort;

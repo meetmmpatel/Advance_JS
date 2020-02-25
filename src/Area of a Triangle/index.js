@@ -1,3 +1,3 @@
-const triArea = (base, height) => (base * height) / 2;
+const triArea = {};
 
 export default triArea;

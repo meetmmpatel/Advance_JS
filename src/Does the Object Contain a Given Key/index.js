@@ -1,3 +1,3 @@
-const hasKey = (obj, key) => key in obj;
+const hasKey = {};
 
 export default hasKey;

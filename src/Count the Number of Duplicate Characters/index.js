@@ -1,3 +1,3 @@
-const duplicates = str => str.length - new Set(str).size;
+const duplicates = {};
 
 export default duplicates;

@@ -1,4 +1,3 @@
-const mapping = letters =>
-  Object.fromEntries(letters.map(letter => [letter, letter.toUpperCase()]));
+const mapping = {};
 
 export default mapping;

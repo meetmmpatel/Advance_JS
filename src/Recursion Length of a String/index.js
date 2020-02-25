@@ -1,3 +1,3 @@
-const length = str => (str ? length(str.slice(1)) + 1 : 0);
+const length = {};
 
 export default length;

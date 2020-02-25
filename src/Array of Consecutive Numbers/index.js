@@ -1,4 +1,3 @@
-const getSequence = (low, high) =>
-  Array.from({ length: high - low + 1 }, (_, i) => low + i);
+const getSequence = {};
 
 export default getSequence;

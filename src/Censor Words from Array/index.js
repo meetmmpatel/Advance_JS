@@ -1,6 +1,3 @@
-const censorString = (str, censoredWords, char) =>
-  str.replace(new RegExp(censoredWords.join('|'), 'g'), match =>
-    char.repeat(match.length),
-  );
+const censorString = {};
 
 export default censorString;

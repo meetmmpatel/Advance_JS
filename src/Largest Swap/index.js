@@ -1,6 +1,3 @@
-const largestSwap = num => {
-  const [first, second] = String(num);
-  return num >= Number(second + first);
-};
+const largestSwap = {};
 
 export default largestSwap;

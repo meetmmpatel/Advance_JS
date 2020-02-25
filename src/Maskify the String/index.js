@@ -1,3 +1,3 @@
-const maskify = str => str.replace(/.(?=.{4})/g, '#');
+const maskify = {};
 
 export default maskify;

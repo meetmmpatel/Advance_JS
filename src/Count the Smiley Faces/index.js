@@ -1,4 +1,3 @@
-const countSmileys = arr =>
-  arr.filter(str => /^[:;][-~]?[)D]$/.test(str)).length;
+const countSmileys = {};
 
 export default countSmileys;

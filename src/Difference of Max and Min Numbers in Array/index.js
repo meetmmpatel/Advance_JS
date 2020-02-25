@@ -1,3 +1,3 @@
-const diffMaxMin = arr => Math.max(...arr) - Math.min(...arr);
+const diffMaxMin = {};
 
 export default diffMaxMin;

@@ -1,3 +1,3 @@
-const convert = (hours, minutes) => hours * 60 * 60 + minutes * 60;
+const convert = {};
 
 export default convert;

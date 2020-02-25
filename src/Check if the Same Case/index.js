@@ -1,3 +1,3 @@
-const sameCase = str => str === str.toUpperCase() || str === str.toLowerCase();
+const sameCase = {};
 
 export default sameCase;

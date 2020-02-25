@@ -1,3 +1,3 @@
-const isTruthy = input => Number(Boolean(input));
+const isTruthy = {};
 
 export default isTruthy;

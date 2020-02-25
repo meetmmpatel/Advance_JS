@@ -1,6 +1,3 @@
-const counterpartCharCode = char =>
-  char === char.toUpperCase()
-    ? char.toLowerCase().charCodeAt()
-    : char.toUpperCase().charCodeAt();
+const counterpartCharCode = {};
 
 export default counterpartCharCode;

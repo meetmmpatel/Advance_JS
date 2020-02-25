@@ -1,3 +1,3 @@
-const capitalLetters = str => str.replace(/[^A-Z]/g, '').length;
+const capitalLetters = {};
 
 export default capitalLetters;

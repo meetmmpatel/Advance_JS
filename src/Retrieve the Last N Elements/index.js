@@ -1,4 +1,3 @@
-const last = (arr, num) =>
-  num > arr.length ? 'invalid' : arr.slice(-num || arr.length);
+const last = {};
 
 export default last;

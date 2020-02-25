@@ -1,3 +1,3 @@
-const isUndulating = num => /^((\d)\d)(\2|\1+|\1+\2)$/.test(num);
+const isUndulating = {};
 
 export default isUndulating;

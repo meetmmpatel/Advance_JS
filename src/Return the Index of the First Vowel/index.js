@@ -1,3 +1,3 @@
-const firstVowel = str => str.search(/[aeiou]/i);
+const firstVowel = {};
 
 export default firstVowel;
